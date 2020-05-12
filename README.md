@@ -1,2 +1,2 @@
-# LeetCodeDSandAlgortithms-
+# LeetCodeDSandAlgortithms
 Leetcode competitive programming
